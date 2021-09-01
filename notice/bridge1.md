@@ -15,6 +15,7 @@ http://docs.golff.com/file/audit1/Golff_Bridge.pdf
 Golff 将不断推进产品研发迭代，提供安全、可靠，让用户放心的收益优化 DeFi 聚合器平台。
 
 **关于 Golff**
+
 Golff 定位于一站式的加密银行，产品形态主要为 DeFi 聚合器平台，致力于创造一个轻量、开放、自由的金融世界。Golff 核心生态代币 GOF 已上线 火币、Gate.io、抹茶等 20 多家主流交易所。
 
 参与地址：https://golff.co/
