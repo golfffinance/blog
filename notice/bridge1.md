@@ -1,4 +1,4 @@
-![image](http://docs.golff.com/blog/page/4.png)
+![image](http://docs.golff.com/blog/page/5.png)
 
 亲爱的 **Golff** 用户：
 
