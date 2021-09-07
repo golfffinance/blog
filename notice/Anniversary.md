@@ -10,7 +10,7 @@ The Golff project was established in February 2020 and officially went live in e
 
 Since September, 2020, Golff has gone through a year. In this year, we have experienced the highlight moment of the crazy spike in various DeFi numbers, and also witnessed the growth path of Golff. We always believe that everyone should have equal access to high-quality financial products and services.
 
-## A year of constantly improving
+### A year of constantly improving
 
 In the past year, Golff has worked hard to start from scratch to propesiperty with all communities as witness.
 
