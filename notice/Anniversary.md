@@ -10,6 +10,7 @@ The Golff project was established in February 2020 and officially went live in e
 
 Since September, 2020, Golff has gone through a year. In this year, we have experienced the highlight moment of the crazy spike in various DeFi numbers, and also witnessed the growth path of Golff. We always believe that everyone should have equal access to high-quality financial products and services.
 
+
 ### A year of constantly improving
 
 In the past year, Golff has worked hard to start from scratch to propesiperty with all communities as witness.
@@ -40,6 +41,7 @@ On August 31st , 2021 the self-developed new Golff bridge, which is the cross-ch
 
 Furthermore, Golff has completed cooperation with outstanding projects such as Chainlink, Polygon, Channels, etc. Golff also held more than 80 AMAs in world wide communities.
 
+
 ### A year of continuous development and bringing benefits to users
 
 This year, the Golff platform accumulated over $951 million in finance management for users, and brought over $7.72 million revenue to users.
@@ -47,6 +49,7 @@ This year, the Golff platform accumulated over $951 million in finance managemen
 Looking back on this year, Golff continued to make efforts in the business sector, from deploying a single-chain revenue aggregator on Ethereum to developing a multi-chain aggregation ecosystem. Currently, it has supported three major mainstream chains, the ETH chain, the BSC chain, and the Heco chain. From only supporting single currency mining, to LP pledge mining. The product form already has Vault, farm, lending, cross-chain bridge, DAO governance, etc.
 
 The number of Golff Vaults has increased from 2 at the beginning to the existing 78, including 36 for the Heco version, 34 for the BSC version, and 8 for the ETH version. The ever-growing Golff continues to develop new DeFi strategy protocols, and at the same time, it continues to achieve higher returns for users.
+
 
 ### A year without Slack, but safe and zero accidents
 
@@ -58,11 +61,13 @@ The smart contracts of all Golff products have been audited by many security age
 
 Golff will continue to serve users with the purpose of security and credibility, and create a DeFi aggregator platform that allows users to rest assured. Strive to create a light, open and free financial world.
 
+
 ### Never forget the Vision, look to the future
 
 Everything in the past is a prologue. In the past year, Golff has built a solid technical foundation from scratch, and has gained the friendship from the broad community of users. We dare not say how much we have changed, but because of you, we have grown a lot.
 
 Next year, Golff will not forget our original goals and set off again. We will actively embrace the changes brought by DeFi and continue to make product breakthroughs. A more complete lending system, a richer income aggregation model, a more complete DAO governance model, and a richer Defi product form will all be our next year. Strive for goals. Wish Golff can become the best choice for everyone to enter the Defi world!
+
 
 ### Anniversary NFT for Thank you to you all
 
