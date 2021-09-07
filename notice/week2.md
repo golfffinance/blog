@@ -65,11 +65,11 @@ Golff 定位于一站式的加密银行，产品形态主要为 DeFi 聚合器�
 
 欢迎加入 Golff 官方社区获取更多信息：
 
-Telegram：https://t.me/GolffProtocol
-Twitter：https://twitter.com/GolffProtocol
-Discord：https://discord.gg/ySbD6Ck
-Medium：https://medium.com/@GolffProtocol
-Reddit：https://www.reddit.com/user/GolffProtocol
-Github：https://github.com/golfffinance/
-Weibo：https://weibo.com/GolffProtocol
-微信：GolffHelp2
+- Telegram：https://t.me/GolffProtocol
+- Twitter：https://twitter.com/GolffProtocol
+- Discord：https://discord.gg/ySbD6Ck
+- Medium：https://medium.com/@GolffProtocol
+- Reddit：https://www.reddit.com/user/GolffProtocol
+- Github：https://github.com/golfffinance/
+- Weibo：https://weibo.com/GolffProtocol
+- 微信：GolffHelp2
