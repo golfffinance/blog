@@ -54,10 +54,10 @@ The new Golff Bridge was launched on August 31, 2021. It was independently devel
 Golff is positioned as a one-stop crypto bank, and its product form is mainly a DeFi aggregator platform. Golf dedicated to creating a light, open and free financial world. Golff officially launched liquidity mining on 9/9/2020. It currently supports multiple wallets such as BitKeep, imToken, Tokenpocket, etc. The main governance token GOF has been listed on 24 mainstream exchanges including Huobi, Gate.io, Matcha, LongBit, and Lbank.
 
 Join Golff official community to get the latest updates：
-Telegram：https://t.me/GolffProtocol
-Twitter：https://twitter.com/GolffProtocol
-Discord：https://discord.gg/ySbD6Ck
-Medium：https://medium.com/@GolffProtocol
-Reddit：https://www.reddit.com/user/GolffProtocol
-Github：https://github.com/golfffinance/
-Weibo：https://weibo.com/GolffProtocol
+- Telegram：https://t.me/GolffProtocol
+- Twitter：https://twitter.com/GolffProtocol
+- Discord：https://discord.gg/ySbD6Ck
+- Medium：https://medium.com/@GolffProtocol
+- Reddit：https://www.reddit.com/user/GolffProtocol
+- Github：https://github.com/golfffinance/
+- Weibo：https://weibo.com/GolffProtocol
