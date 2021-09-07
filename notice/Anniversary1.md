@@ -1,4 +1,4 @@
-![image](http://docs.golff.com/blog/page/18.png)
+![image](http://docs.golff.com/blog/page/19.png)
 
 **Golff** 全球社区朋友们：
 
@@ -81,6 +81,7 @@ Golff 高速发展历程，离不了你们的支持和信任。为了感谢用�
 所有在 9 月 9 日前参与过 Golff 机枪池、借贷、跨链桥、矿池等合约交互的地址（ETH、BSC、HECO 均可）将有资格领取 NFT 奖励。具体领取方式请关注官方公告。
 
 风雨同舟，感谢有你！
+
 
 Golff发起人 丁云鹏
 
