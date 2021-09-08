@@ -1,4 +1,4 @@
-![image](http://docs.golff.com/blog/page/19.png)
+![image](https://docs.golff.com/blog/page/19.png)
 
 **Golff** 全球社区朋友们：
 
