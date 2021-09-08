@@ -1,4 +1,4 @@
-![image](http://docs.golff.com/blog/page/15.png)
+![image](https://docs.golff.com/blog/page/15.png)
 
 To Golff Global Community Friends,
 
