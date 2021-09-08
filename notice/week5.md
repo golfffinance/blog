@@ -20,7 +20,7 @@ ETH 链 TVL 峰值**579 万美元**
 
 ## 最新热门 Lend 借贷利率对比
 
-![image](http://docs.golff.com/blog/page/18.png)
+![image](http://docs.golff.com/blog/page/20.png)
 
 ## GOF 数据
 
