@@ -1,6 +1,18 @@
 {
       "weekly": {
           "en-US": [
+                  {
+                "id": 9,
+                "title": "Scope of application of this plan",
+                "description":
+                    "For the sake of Golff's stable development and the safety of its users' assets, Golff is now launching a bug bounty program.",
+                "mk": "http://docs.golff.com/blog/notice/Bug.md",
+                "img": "http://docs.golff.com/blog/page/32.png",
+                "alt": "Bug Bounty Program",
+                "tips": "Bounty",
+                "published": "Sep 8，2021"
+                },
+                
                 {
                 "id": 8,
                 "title": "Golff Finance August Data Report",
@@ -12,7 +24,6 @@
                 "tips": "monthly",
                 "published": "Sep 8，2021"
                 },
-                
                  {
                 "id": 1,
                 "title": "A Letter From US: Golff 1st Anniversary",
@@ -94,6 +105,17 @@
 
             ],
         "zh-CN": [
+                 {
+                "id": 9,
+                "title": "Golff漏洞赏金计划",
+                "description":
+                    "为了Golff的稳定发展以及用户的资产安全，Golff现推出漏洞赏金计划。希望通过活动发掘更多专业的安全研究员、软件开发人员以及白帽黑客来参与此次计划。",
+                "mk": "http://docs.golff.com/blog/notice/Bug1.md",
+                "img": "http://docs.golff.com/blog/page/33.png",
+                "alt": "赏金计划",
+                "tips": "赏金计划",
+                "published": "Sep 8，2021"
+                },
                {
                 "id": 8,
                 "title": "Golff Finance 8月项目数据报告",
