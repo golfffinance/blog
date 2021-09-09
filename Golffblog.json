@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                    {
+                "id": 10,
+                "title": "Golff 1st Anniversary Essay Contest",
+                "description":
+                    "Golff is holding an essay contest in the global community, write an essay on the theme of "Golff's first anniversary.",
+                "mk": "https://docs.golff.com/blog/notice/essay1.md",
+                "img": "https://docs.golff.com/blog/page/35.png",
+                "alt": "essay Contest",
+                "tips": "Contest",
+                "published": "Sep 9，2021"
+                },
                   {
                 "id": 9,
                 "title": "Scope of application of this plan",
