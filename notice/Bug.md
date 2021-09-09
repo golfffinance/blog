@@ -47,12 +47,12 @@ Submitted vulnerabilities need to satisfy minimum severity criteria to be eligib
 
 The severity of contractual vulnerabilities will be assessed by reference to the CVSS risk rating scale, as follows:
 
-| 等级           | GOF奖励             |
+| <font color="red">等级</font> | <font color="red">GOF奖励</font> |
 | -------------- | ------------------- |
-| 严重(9.0-10.0) | $10,000~$20,000 GOF |
-| 高危(7.0-8.9)  | $5,000~$10,000 GOF  |
-| 中危(4.0-6.9)  | $3,000~$5,000 GOF   |
-| 低危(0.1-3.9)  | $200~$3,000 GOF     |
+| <font color="black">严重(9.0-10.0)</font> | <font color="black">$10,000~$20,000 GOF</font>|
+| <font color="black">高危(7.0-8.9)</font> | <font color="black">$5,000~$10,000 GOF</font> |
+| <font color="black">中危(4.0-6.9)</font> | <font color="black">$3,000~$5,000 GOF</font>  |
+| <font color="black">低危(0.1-3.9) </font> | <font color="black">$200~$3,000 GOF </font>  |
 
 
 
