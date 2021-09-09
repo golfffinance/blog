@@ -105,6 +105,19 @@
 
             ],
         "zh-CN": [
+              
+                {
+                "id": 10,
+                "title": "Golff 一周年征文活动火热开启",
+                "description":
+                    "Golff 在全球社区举办一周年征文活动，写下“Golff 一周年”为主题的文章，我们将精选出 8 篇文章，分别奖励 66 枚 GOF",
+                "mk": "https://docs.golff.com/blog/notice/essay.md",
+                "img": "https://docs.golff.com/blog/page/34.png",
+                "alt": "征文活动",
+                "tips": "征文活动",
+                "published": "Sep 9，2021"
+                },
+              
                  {
                 "id": 9,
                 "title": "Golff漏洞赏金计划",
