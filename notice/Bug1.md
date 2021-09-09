@@ -46,12 +46,12 @@ GOF代币合约：
 
 合约漏洞的严重程度将参考CVSS风险评级量表进行评估，如下所示：
 
-| 等级           | GOF奖励             |
+| <font color="red">等级</font> | <font color="red">GOF奖励</font>    |
 | -------------- | ------------------- |
-| 严重(9.0-10.0) | $10,000~$20,000 GOF |
-| 高危(7.0-8.9)  | $5,000~$10,000 GOF  |
-| 中危(4.0-6.9)  | $3,000~$5,000 GOF   |
-| 低危(0.1-3.9)  | $200~$3,000 GOF     |
+| <font color="black">严重(9.0-10.0)</font> | <font color="black">$10,000~$20,000 GOF</font>|
+| <font color="black">高危(7.0-8.9)</font> | <font color="black">$5,000~$10,000 GOF</font> |
+| <font color="black">中危(4.0-6.9)</font> | <font color="black">$3,000~$5,000 GOF</font>  |
+| <font color="black">低危(0.1-3.9) </font> | <font color="black">$200~$3,000 GOF </font>  |
 
 
 
