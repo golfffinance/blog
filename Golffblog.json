@@ -2,6 +2,17 @@
       "weekly": {
           "en-US": [
                     {
+                "id": 11,
+                "title": "Golff and BabySwap become Mining partner",
+                "description":
+                    "Golff and BabySwap have reached a strategic cooperation and both parties will start Farm mutual mining.",
+                "mk": "https://docs.golff.com/blog/notice/BabySwap.md",
+                "img": "https://docs.golff.com/blog/page/37.png",
+                "alt": "Golff and BabySwap",
+                "tips": "BabySwap",
+                "published": "Sep 10，2021"
+                },
+                    {
                 "id": 10,
                 "title": "Golff 1st Anniversary Essay Contest",
                 "description":
@@ -117,7 +128,17 @@
             ],
             
         "zh-CN": [
-              
+                  {
+                "id": 11,
+                "title": "Golff与BabySwap达成互挖合作，同步上线GOF-USDT LP机枪池",
+                "description":
+                    "BSC 版 Golff Vault 将上线 GOF-USDT（BabySwap）LP 池，帮助用户实现自动复投，增加收益。",
+                "mk": "https://docs.golff.com/blog/notice/BabySwap1.md",
+                "img": "https://docs.golff.com/blog/page/37.png",
+                "alt": "Golff and BabySwap",
+                "tips": "BabySwap",
+                "published": "Sep 10，2021"
+                },
                 {
                 "id": 10,
                 "title": "Golff 一周年征文活动火热开启",
