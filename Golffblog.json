@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                    {
+                "id": 13,
+                "title": "BSC version of Golff Farm adds GOF-USDT mining pool",
+                "description":
+                    "BSC version of Golff Farm will add GOF-USDT (BabySwap) mining pool on September 15, 2021 at 20:00 (UTC+8)",
+                "mk": "https://docs.golff.com/blog/notice/gofusdt1.md",
+                "img": "https://docs.golff.com/blog/page/44.png",
+                "alt": "GOF-USDT Announcement",
+                "tips": "Announcement",
+                "published": "Sep 15，2021"
+                },
                  {
                 "id": 12,
                 "title": "Golff Weekly Project Progress(9.6-9.13)",
@@ -139,6 +150,17 @@
             ],
             
         "zh-CN": [
+               {
+                "id": 13,
+                "title": "BSC版Golff Farm新增GOF-USDT矿池",
+                "description":
+                    "BSC版Golff Farm将于2021年9月15日20:00(UTC+8)新增 GOF-USDT（BabySwap）矿池",
+                "mk": "https://docs.golff.com/blog/notice/gofusdt.md",
+                "img": "https://docs.golff.com/blog/page/45.png",
+                "alt": "GOF-USDT上线公告",
+                "tips": "公告",
+                "published": "Sep 15，2021"
+                },
                  {
                 "id": 12,
                 "title": "Golff每周数据及项目进展 9.6-9.13",
