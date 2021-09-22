@@ -22,6 +22,7 @@ Golff Course 球场包括 VIP Club 和 Carnival 两个子版块。VIP Club 支�
 Golff Course 球场旨在增加所有 GOF 持币用户的权益，激励对 GOF 价值长期认可者，以及加强 GOF 忠实用户的长期利益。
 
 参与地址：https://golff.co/
+
 参与教程：https://docs.golff.com/
 
 欢迎加入 Golff 官方社区获取更多信息：
