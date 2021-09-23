@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                   {
+                "id": 15,
+                "title": "Golff Weekly Project Progress(9.14-9.21)",
+                "description":
+                    "This Week’s Project Data",
+                "mk": "https://docs.golff.com/blog/notice/week9.md",
+                "img": "https://docs.golff.com/blog/page/weekly/4.jpg",
+                "alt": "Golff Weekly",
+                "tips": "Weekly",
+                "published": "Sep 23，2021"
+                },
                     {
                 "id": 14,
                 "title": "Golff Finance launched Golff Course",
@@ -161,6 +172,17 @@
             ],
             
         "zh-CN": [
+                  {
+                "id": 15,
+                "title": "Golff每周数据及项目进展9.14-9.21",
+                "description":
+                    "Golff项目周报",
+                "mk": "https://docs.golff.com/blog/notice/week8.md",
+                "img": "https://docs.golff.com/blog/page/weekly/1.jpg",
+                "alt": "Golff周报",
+                "tips": "周报",
+                "published": "Sep 23，2021"
+                },
                   {
                 "id": 14,
                 "title": "Golff Finance 上线“Course 球场”板块",
