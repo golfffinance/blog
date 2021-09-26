@@ -21,5 +21,3 @@ BSC Farm 新增池：**G-GOF-USDT**
 - Medium：https://medium.com/@GolffProtocol
 - Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
-- Weibo：https://weibo.com/GolffProtocol
-- 微信：GolffHelp2
