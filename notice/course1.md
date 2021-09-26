@@ -33,5 +33,3 @@ Golff Course 球场旨在增加所有 GOF 持币用户的权益，激励对 GOF 
 - Medium：https://medium.com/golff-finance
 - Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
-- Weibo：https://weibo.com/GolffProtocol
-- 微信：GolffHelp2
