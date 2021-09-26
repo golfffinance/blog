@@ -63,4 +63,3 @@ Discord：https://discord.gg/ySbD6Ck
 Medium：https://medium.com/@GolffProtocol
 Reddit：https://www.reddit.com/user/GolffProtocol
 Github：https://github.com/golfffinance/
-Weibo：https://weibo.com/GolffProtocol
