@@ -52,4 +52,3 @@ Golff is a one-stop crypto bank with a product format that is primarily a DeFi a
 - *Medium：*[*https://medium.com/@GolffProtocol*](https://medium.com/@GolffProtocol)
 - *Reddit：*[*https://www.reddit.com/user/GolffProtocol*](https://www.reddit.com/user/GolffProtocol)
 - *Github：*[*https://github.com/golfffinance/*](https://github.com/golfffinance/)
-- *Weibo：*[*https://weibo.com/GolffProtocol*](https://weibo.com/GolffProtocol)
