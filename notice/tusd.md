@@ -32,4 +32,3 @@ Tutorial: https://docs.golff.com/
 
 *Github：*[*https://github.com/golfffinance/*](https://github.com/golfffinance/)
 
-*Weibo：*[*https://weibo.com/GolffProtocol*](https://weibo.com/GolffProtocol)
