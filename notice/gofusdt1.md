@@ -22,5 +22,3 @@ Participate tutorial: https://docs.golff.com/
 - Medium：https://medium.com/@GolffProtocol
 - Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
-- Weibo：https://weibo.com/GolffProtocol
-- Wechat: GolffHelp2
