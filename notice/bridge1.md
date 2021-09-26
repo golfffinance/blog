@@ -30,5 +30,3 @@ Golff 定位于一站式的加密银行，产品形态主要为 DeFi 聚合器�
 - Medium：https://medium.com/@GolffProtocol
 - Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
-- Weibo：https://weibo.com/GolffProtocol
-- 微信：GolffHelp2
