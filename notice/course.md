@@ -29,5 +29,3 @@ The Golff Course is designed to increase the equity of all GOF holders, to incen
 - Medium：https://medium.com/@GolffProtocol
 - Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
-- Weibo：https://weibo.com/GolffProtocol
-- Wechat: GolffHelp2
