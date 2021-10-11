@@ -2,6 +2,17 @@
       "weekly": {
           "en-US": [
                     {
+                "id": 17,
+                "title": "Golff Finance September Data Report",
+                "description":
+                    "This September Project Data",
+                "mk": "https://docs.golff.com/blog/notice/September.md",
+                "img": "https://docs.golff.com/blog/page/September/1.png",
+                "alt": "Golff September",
+                "tips": "September",
+                "published": "Oct 11，2021"
+                },
+                    {
                 "id": 16,
                 "title": "Golff Weekly Project Progress(9.21-9.27)",
                 "description":
