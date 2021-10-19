@@ -1,6 +1,18 @@
 {
       "weekly": {
           "en-US": [
+                    {
+                "id": 21,
+                "title": "Gate.io has enabled GOF deposit and withdrawal on BSC",
+                "description":
+                    "Gate.io exchange now has supportted for GOF deposit and withdrawal based on the BSC chain.",
+                "mk": "https://docs.golff.com/blog/notice/golffgate.md",
+                "img": "https://docs.golff.com/blog/page/50.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Oct 19，2021"
+                },
+                
                        {
                 "id": 20,
                 "title": "Announcement of Increasing GOF-BNB Pool Rewards and Removing Parts of LP Mining Pool",
