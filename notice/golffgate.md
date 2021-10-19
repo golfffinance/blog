@@ -31,6 +31,6 @@ Golff is positioned as a one-stop crypto bank, and its product form is mainly a 
 - Telegram：https://t.me/GolffProtocol
 - Twitter：https://twitter.com/GolffProtocol
 - Discord：https://discord.gg/ySbD6Ck
-- Medium：[https://medium.com/@GolffProtocol](https://golffprotocol.medium.com/@GolffProtocol)
+- Medium：https://medium.com/golff-finance
 - Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
