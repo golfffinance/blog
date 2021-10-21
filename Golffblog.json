@@ -1,6 +1,18 @@
 {
       "weekly": {
           "en-US": [
+                  {
+                "id": 23,
+                "title": "99 Golff Limited Edition 1st Anniversary NFTs Will Release Soon",
+                "description":
+                    "Golff 1st anniversary Pet-NFT is now officially launched",
+                "mk": "https://docs.golff.com/blog/notice/petnft.md",
+                "img": "https://docs.golff.com/blog/page/petnft/2.gif",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Oct 21，2021"
+                },
+                
                  {
                 "id": 22,
                 "title": "Golff Weekly Project Progress(10.12-10.18)",
