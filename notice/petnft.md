@@ -4,7 +4,7 @@ Dear Golff Users:
 
 Though it has been delay, Golff 1st anniversary Pet-NFT is now officially launched. Sorry for been waiting for a long time.
 
-On the occasion of Golff Finance’s 1st anniversary, in order to continuously enhance the rights of GOF users, Golff Finance will soon issue 99 limited edition 1st anniversary NFTs on the BSC, which can be received by eligible users for free, while stocks last. The first anniversary NFTs are designed in a beautiful cartoon pixel style and each one has unique attributes. Holders of these NFTs will receive a mining bonus in the Golff Stadium-VIP Club, as well as other exclusive benefits. Everyone can randomly receive Pet-NFTs with different rarity and different combat power, which can increase the income of Course.
+On the occasion of Golff Finance’s 1st anniversary, in order to continuously enhance the rights of GOF users, Golff Finance will soon issue 99 limited edition 1st anniversary NFTs on the BSC, which can be received by eligible users for free, while stocks last. The first anniversary NFTs are designed in a beautiful cartoon pixel style and each one has unique attributes. Holders of these NFTs will receive a mining bonus in the Golff Course-VIP Club, as well as other exclusive benefits. Everyone can randomly receive Pet-NFTs with different rarity and different combat power, which can increase the income of Course.
 
 **Eligibility:**
 
