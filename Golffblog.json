@@ -2,6 +2,17 @@
       "weekly": {
           "en-US": [
                   {
+                "id": 24,
+                "title": "Golff Weekly Project Progress(10.19-10.25)",
+                "description":
+                    "This Week’s Project Data",
+                "mk": "https://docs.golff.com/blog/notice/week31.md",
+                "img": "https://docs.golff.com/blog/page/week31/1.jpg",
+                "alt": "Golff Weekly",
+                "tips": "Weekly",
+                "published": "Oct 26，2021"
+                },
+                  {
                 "id": 23,
                 "title": "99 Golff Limited Edition 1st Anniversary NFTs Will Release Soon",
                 "description":
