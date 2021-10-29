@@ -30,9 +30,9 @@ G-Token is an equity Token of Golff Vault, each token in the Vault corresponds t
 
 ### Join Golff official community to get the latest updates：
 
-- Telegram：[https://t.me/GolffProtocol](https://t.me/GolffProtocol" /t "_blank)
+- Telegram：https://t.me/GolffProtocol
 - Twitter：https://twitter.com/GolffProtocol
-- Discord：[https://discord.gg/ySbD6Ck](https://discord.gg/ySbD6Ck" /t "_blank)
+- Discord：https://discord.gg/ySbD6Ck
 - Medium：https://medium.com/golff-finance
-- Reddit：[https://www.reddit.com/user/GolffProtocol](https://www.reddit.com/user/GolffProtocol" /t "_blank)
+- Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
