@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                    {
+                "id": 26,
+                "title": "Golff Launches TribeOne (HAKA) Partnership Pool",
+                "description":
+                    "Golff Carnival will launch TribeOne (HAKA) partner mining pool on November 1, 2021",
+                "mk": "https://docs.golff.com/blog/notice/HAKA.md",
+                "img": "https://docs.golff.com/blog/page/53.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Nov 1，2021"
+                },
                    {
                 "id": 25,
                 "title": "Golff Launches Vault Voucher Mortgage Lending Strategy",
