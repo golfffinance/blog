@@ -1,6 +1,18 @@
 {
       "weekly": {
           "en-US": [
+                
+                   {
+                "id": 29,
+                "title": "Golff(BSC) launches CAKE Vault and Farm",
+                "description":
+                    "Golff (BSC) will be newly launched on CAKE (based on Venus strategy) Vault",
+                "mk": "https://docs.golff.com/blog/notice/cake.md",
+                "img": "https://docs.golff.com/blog/page/55.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Nov 9，2021"
+                },
                    {
                 "id": 28,
                 "title": "Announcement on Golff’s removal of HLTC, HPT, TUSD Vaults and mining pools",
