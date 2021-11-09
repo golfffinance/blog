@@ -1,7 +1,17 @@
 {
       "weekly": {
           "en-US": [
-                
+                         {
+                "id": 30,
+                "title": "Golff Weekly Project Progress(11.2-11.8)",
+                "description":
+                    "This Week’s Project Data",
+                "mk": "https://docs.golff.com/blog/notice/week33.md",
+                "img": "https://docs.golff.com/blog/page/week1/1.jpg",
+                "alt": "Golff Weekly",
+                "tips": "Weekly",
+                "published": "Nov 9，2021"
+                },
                    {
                 "id": 29,
                 "title": "Golff(BSC) launches CAKE Vault and Farm",
