@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                    {
+                "id": 31,
+                "title": "Support Golff Roadmap V2 to get 10,000 GOF airdrop reward",
+                "description":
+                    "Golff Finance is launching the campaign Support Golff Roadmap V2 to get 10,000 GOF airdrop reward",
+                "mk": "https://docs.golff.com/blog/notice/roadmap.md",
+                "img": "https://docs.golff.com/blog/page/1.png",
+                "alt": "Golff airdrop",
+                "tips": "airdrop",
+                "published": "Nov 15，2021"
+                },
                          {
                 "id": 30,
                 "title": "Golff Weekly Project Progress(11.2-11.8)",
