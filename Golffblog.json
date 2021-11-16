@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                   {
+                "id": 33,
+                "title": "Golff Weekly Project Progress(11.9-11.15)",
+                "description":
+                    "This Week’s Project Data",
+                "mk": "https://docs.golff.com/blog/notice/week34.md",
+                "img": "https://docs.golff.com/blog/page/week2/1.jpg",
+                "alt": "Golff Weekly",
+                "tips": "Weekly",
+                "published": "Nov 16，2021"
+                },
                      {
                 "id": 32,
                 "title": "Golff Roadmap V2 Official Launches",
