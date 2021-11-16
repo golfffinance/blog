@@ -14,7 +14,7 @@ In 2022, Golff Finance will build a credit system on the chain of users and grad
 
 The future Golff is not only an aggregator or a one-stop crypto bank. It will be more of an on-chain credit system + financial system in the future and will be integrated into various meta-universe ecologies to provide image sketching for users. We continue to write a new chapter and open up infinite possibilities for Golff’s future.
 
-To thank you for your continued interest and support, we are launching a airdrop campaign on the Roadmap V2 page to give away 10,000 GOFs. Users are welcome to participate. Address: https://golff.finance/#/roadmap
+To thank you for your continued interest and support, we are launching a airdrop campaign on the Roadmap V2 page to give away 10,000 GOFs. Users are welcome to participate. Address:[https://golff.finance/#/roadmap](https://golff.finance/#/roadmap)
 
 Next, we will continue to provide users with unique product experience and better service with the new look of Roadmap V2!
 
