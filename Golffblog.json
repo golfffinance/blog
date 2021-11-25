@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                   {
+                "id": 36,
+                "title": "Golff Thanksgiving NFT Airdrop Event",
+                "description":
+                    "Golff Finance would like to thank the community for support with the Golff Thanksgiving NFT Airdrop event on Twitter.",
+                "mk": "https://docs.golff.com/blog/notice/Thanksgiving.md",
+                "img": "https://docs.golff.com/blog/page/Thanksgiving/1.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Nov 25，2021"
+                },
                     {
                 "id": 35,
                 "title": "Golff Weekly Project Progress(11.16-11.22)",
