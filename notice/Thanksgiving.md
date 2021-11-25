@@ -22,12 +22,12 @@ Like & Tag 3 friends .
 
 8 lucky users will be randomly selected to share 8 NFTs and 300 GOF!
 
-Address：https://twitter.com/GolffProtocol/status/1463690081835765761
+Address：[https://twitter.com/GolffProtocol/status/1463690081835765761](https://twitter.com/GolffProtocol/status/1463690081835765761)
 
 **GXChain NFT Exchange Instructions:**
 
 - User transfers using GXC wallet to the address: golff2finance
-- Fill out the form: (https://forms.gle/ZsVnJHqG5cVqaxno8)[https://forms.gle/ZsVnJHqG5cVqaxno8]
+- Fill out the form: [https://forms.gle/ZsVnJHqG5cVqaxno8](https://forms.gle/ZsVnJHqG5cVqaxno8)
 - Form collection period: November 24, 2021 — November 29, 2021
 
 **Golff Festival NFT Holding Benefits:**
