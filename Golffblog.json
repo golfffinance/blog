@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                     {
+                "id": 37,
+                "title": "Heco lend G-Token adds G-USDC/G-BCH/G-MDX and other tokens",
+                "description":
+                    "a new collateralized lending pool for G-USDC, G-MDX, G-DOT, G-UNI, G-FIL, and G-BCH at 22:00 (GMT-4) on November 25, 2021..",
+                "mk": "https://docs.golff.com/blog/notice/GUSDC.md",
+                "img": "https://docs.golff.com/blog/page/GUSDC/1.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Nov 26，2021"
+                },
                    {
                 "id": 36,
                 "title": "Golff Thanksgiving NFT Airdrop Event",
