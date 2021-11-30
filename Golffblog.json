@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                      {
+                "id": 38,
+                "title": "Golff Weekly Project Progress(11.23-11.29)",
+                "description":
+                    "This Week’s Project Data",
+                "mk": "https://docs.golff.com/blog/notice/week36.md",
+                "img": "https://docs.golff.com/blog/page/week34/1.jpg",
+                "alt": "Golff Weekly",
+                "tips": "Weekly",
+                "published": "Nov 30，2021"
+                },
                      {
                 "id": 37,
                 "title": "Heco lend G-Token adds G-USDC/G-BCH/G-MDX and other tokens",
