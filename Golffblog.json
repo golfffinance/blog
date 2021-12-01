@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                     {
+                "id": 39,
+                "title": "Golff Finance Launches BSC Lend",
+                "description":
+                    "Golff Finance will re-launch the BSC Lend at 23:00 (GMT-4) on December 1, 2021, and support G-Token collateralized lending at the same time.",
+                "mk": "https://docs.golff.com/blog/notice/BSCLend.md",
+                "img": "https://docs.golff.com/blog/page/BSCLend/1.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Dec 1，2021"
+                },
                       {
                 "id": 38,
                 "title": "Golff Weekly Project Progress(11.23-11.29)",
