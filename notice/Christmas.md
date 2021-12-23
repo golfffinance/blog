@@ -16,7 +16,7 @@ December 23, 2021 00:00 — January 6, 2022 00:00 (GMT-4)
 
 #### **Event address:**
 
-https://golff.finance/#/mbox
+[https://golff.finance/#/mbox](https://golff.finance/#/mbox)
 
 #### **Event Notes:**
 
