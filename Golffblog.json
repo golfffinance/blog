@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                {
+                "id": 44,
+                "title": "Golff Christmas Event: Open the Mystery Box to Draw Limited Christmas NFT and GOF Rewards",
+                "description":
+                    "Golff Finance is launching a special Christmas Mystery box drawing event.",
+                "mk": "https://docs.golff.com/blog/notice/Christmas.md",
+                "img": "https://docs.golff.com/blog/page/Christmas/1.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Dec 23，2021"
+                },
                  {
                 "id": 43,
                 "title": "Golff Weekly Project Progress(12.14-12.20)",
