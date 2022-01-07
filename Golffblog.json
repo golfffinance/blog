@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                 {
+                "id": 47,
+                "title": "Golff Listed on Coinbase, Coinbase Wallet Now Supports GOF",
+                "description":
+                    "Coinbase wallet now supports GOF and supports buying GOF with ETH.",
+                "mk": "https://docs.golff.com/blog/notice/Coinbase.md",
+                "img": "https://docs.golff.com/blog/page/Coinbase/1.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Jan 7，2022"
+                },
                   {
                 "id": 46,
                 "title": "Golff Weekly Project Progress(12.28-1.3)",
