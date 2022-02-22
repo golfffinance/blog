@@ -16,7 +16,7 @@ ETH chain TVL peak | $2.70 million
 
 ### The Latest Popular Vault APY Comparison
 
-![image](https://docs.golff.com/blog/page/week48/2.jpg)
+![image](https://docs.golff.com/blog/page/week48/2.png)
 
 ### The Latest Popular Lend Interest Rate Comparison
 
