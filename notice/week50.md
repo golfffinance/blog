@@ -1,6 +1,5 @@
 ## Golff Weekly Project Progress
 
-2021.3.01–2022.3.07
 
 ![image](https://docs.golff.com/blog/page/week50/1.jpg)
 
