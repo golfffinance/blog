@@ -1,6 +1,6 @@
 ### **Announcement: Golff Trading Mining Launch**
 
-![image](https://docs.golff.com/blog/page/Trading Mining/2.png)
+![image](https://docs.golff.com/blog/page/TradingMining/2.png)
 
 Dear Golff Users:
 
