@@ -4,7 +4,7 @@
 
 Dear Golff Users:
 
-​        According to the previous ‘community proposal on GOF LP and trading mining rewards’: in order to increase the LP depth and trading activity of GOF on each chain, and reward users who actively participate in trading and liquidity addition, Golff will launch LP trading mining on March 24, 2022 at 00:00 (GMT-4), in addition to increasing LP pool rewards on top of additional GOF to incentivize trading users, welcome to participate.
+​      According to the previous ‘community proposal on GOF LP and trading mining rewards’: in order to increase the LP depth and trading activity of GOF on each chain, and reward users who actively participate in trading and liquidity addition, Golff will launch LP trading mining on March 24, 2022 at 00:00 (GMT-4), in addition to increasing LP pool rewards on top of additional GOF to incentivize trading users, welcome to participate.
 
 **Amount of GOF rewards for LP pledging and transaction mining for each chain.**
 
