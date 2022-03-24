@@ -2,6 +2,17 @@
       "weekly": {
           "en-US": [
                  {
+                "id": 59,
+                "title": "Golff Trading Mining Launch",
+                "description":
+                    "Golff will launch LP trading mining on March 24, 2022 at 00:00 (GMT-4), in addition to increasing LP pool rewards on top of additional GOF to incentivize trading users",
+                "mk": "https://docs.golff.com/blog/notice/Trading Mining.md",
+                "img": "https://docs.golff.com/blog/page/Trading Mining/2.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Mar 24，2022"
+                },
+                 {
                 "id": 58,
                 "title": "Golff Weekly Project Progress(3.15-3.21)",
                 "description":
