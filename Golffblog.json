@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                  {
+                "id": 60,
+                "title": "Golff Weekly Project Progress(3.22-3.28)",
+                "description":
+                    "This Week’s Project Data",
+                "mk": "https://docs.golff.com/blog/notice/week53.md",
+                "img": "https://docs.golff.com/blog/page/week53/1.jpg",
+                "alt": "Golff Weekly",
+                "tips": "Weekly",
+                "published": "Mar 29，2022"
+                },
                  {
                 "id": 59,
                 "title": "Golff Trading Mining Launch",
