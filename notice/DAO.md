@@ -33,17 +33,17 @@ Golff DAO consists of GTEAM and GDAO members
 
 ### I. Optimize the community governance process
 
-\1. Initiating proposals through pledge GOF
-\2. Proposal publicizing and optimization
-\3. Proposal referendum using GDAO
-\4. Proposal implementation and supervision
+1. Initiating proposals through pledge GOF
+2. Proposal publicizing and optimization
+3. Proposal referendum using GDAO
+4. Proposal implementation and supervision
 
 ### II. Attract more community developers to the Golff ecosystem through incentives
 
-\1. Product development proposals voted by the community will automatically enter the Job List task list
-\2. Community developers will receive tasks by pledging GOF
-\3. After completing the task, submit the task to the community for voting and review
-\4. After the task is approved, the proposer and developer will receive the corresponding task rewards
+1. Product development proposals voted by the community will automatically enter the Job List task list
+2. Community developers will receive tasks by pledging GOF
+3. After completing the task, submit the task to the community for voting and review
+4. After the task is approved, the proposer and developer will receive the corresponding task rewards
 
 # Governance Flow Chart
 
