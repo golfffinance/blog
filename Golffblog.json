@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                 {
+                "id": 68,
+                "title": "Blackboard  Available",
+                "description":
+                    "Golff DAO governance upgraded. Task posting feature Blackboard will launch!🥳",
+                "mk": "https://docs.golff.com/blog/notice/Blackboard.md",
+                "img": "https://docs.golff.com/blog/page/Blackboard/1.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "May 16，2022"
+                },
                 {
                 "id": 67,
                 "title": "Golff Weekly Project Progress(5.03-5.09)",
