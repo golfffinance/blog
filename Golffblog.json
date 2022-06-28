@@ -1,6 +1,17 @@
 {
       "weekly": {
           "en-US": [
+                 {
+                "id": 75,
+                "title": "Golff Weekly Project Progress(6.21-6.27)",
+                "description":
+                    "This Week’s Project Data",
+                "mk": "https://docs.golff.com/blog/notice/week66.md",
+                "img": "https://docs.golff.com/blog/page/week66/1.jpg",
+                "alt": "Golff Weekly",
+                "tips": "Weekly",
+                "published": "Jun 28，2022"
+                },
                 {
                 "id": 74,
                 "title": "Golff Weekly Project Progress(6.14-6.20)",
