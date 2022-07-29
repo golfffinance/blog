@@ -2,6 +2,17 @@
       "weekly": {
           "en-US": [
                 {
+                "id": 81,
+                "title": "Newly Lite Vault is available on BSC",
+                "description":
+                    "Newly Lite Vault is available on BSC",
+                "mk": "https://docs.golff.com/blog/notice/LiteVault.md",
+                "img": "https://docs.golff.com/blog/page/vault.png",
+                "alt": "Golff Announcement",
+                "tips": "Announcement",
+                "published": "Jul 29，2022"
+                },
+                {
                 "id": 80,
                 "title": "Golff Weekly Project Progress(7.19-7.25)",
                 "description":
