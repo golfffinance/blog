@@ -2,6 +2,17 @@
       "weekly": {
           "en-US": [
                  {
+                "id": 92,
+                "title": "Golff Weekly Project Progress(10.04-10.10)",
+                "description":
+                    "This Week’s Project Data",
+                "mk": "https://docs.golff.com/blog/notice/week81.md",
+                "img": "https://docs.golff.com/blog/page/week80/16.jpg",
+                "alt": "Golff Weekly",
+                "tips": "Weekly",
+                "published": "Otc 11 ，2022"
+                },
+                 {
                 "id": 91,
                 "title": "Golff Weekly Project Progress(9.27-10.04)",
                 "description":
